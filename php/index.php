@@ -62,7 +62,7 @@
 <body><br>
     <div id="timer">
         <div class="days">
-        <p id="days">0 Days</p>
+        <p id="days">0 Dayss</p>
         </div>
         <div class="othertime">
         <p id="hours">0 Hours</p>
